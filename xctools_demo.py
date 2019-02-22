@@ -1,6 +1,6 @@
 ###
 # Retrieves the NOTAM from a specific source
-
+# test
 # The sequence is the following
 
 # - login (including confirmation)
